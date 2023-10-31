@@ -16,10 +16,6 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="DataContext\" />
-  </ItemGroup>
-
-  <ItemGroup>
     <ProjectReference Include="..\ProyectoCrud.Models\ProyectoCrud.Models.csproj" />
   </ItemGroup>
 
